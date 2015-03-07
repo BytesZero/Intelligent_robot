@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:id="@android:id/tabhost"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/app_bg">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginBottom="@dimen/unite_pro_item_height"
+        android:background="@color/write"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/unite_pro_item_height"
+            android:layout_gravity="center"
+            android:background="@color/top_bar"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/main_tv_title_left"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:text=""
+                android:textColor="@color/write"
+                android:gravity="center"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="2"
+                android:layout_height="match_parent"
+                android:text="@string/main_title"
+                android:textColor="@color/write"
+                android:textSize="@dimen/unite_title_text_size"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/main_tv_title_right"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:text="@string/main_title_right"
+                android:textColor="@color/write"
+                android:gravity="center"/>
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/main_lv_chat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@null"
+            android:choiceMode="none"
+            android:divider="@color/write"
+            android:dividerHeight="0dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/main_ll_sound_insert"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/unite_pro_item_height"
+        android:layout_gravity="bottom"
+        android:background="@color/chat_item_time_bg"
+        android:gravity="center"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:id="@+id/main_tv_sound_insert"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="0.5"
+            android:background="@drawable/sound_insert_icon"
+            android:text=""
+            android:layout_margin="15dp"/>
+
+        <EditText
+            android:id="@+id/main_et_input_msg"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:background="@color/write"
+            android:hint="请输入..."
+            android:maxLines="2"
+            android:padding="5dp"/>
+
+        <TextView
+            android:id="@+id/main_tv_send"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="发送"
+            android:background="@color/chat_item_time_bg"
+            android:textColor="@color/write"/>
+    </LinearLayout>
+</FrameLayout>

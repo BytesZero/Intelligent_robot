@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/write"
+              android:orientation="vertical">
+    <include layout="@layout/lines"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="3"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/chat_item_left_item_305000_tv_trainnum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="G651(高速动车)"
+                android:textSize="@dimen/unite_pro_item_black_textSize"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textColor="@color/black"
+                android:layout_alignParentTop="true"/>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="@dimen/unite_pro_item_height"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/chat_item_left_item_305000_tv_start"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="北京西"
+                android:textSize="@dimen/unite_pro_item_black_textSize"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textColor="@color/black"
+                android:layout_alignParentTop="true"/>
+
+            <TextView
+                android:id="@+id/chat_item_left_item_305000_tv_starttime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="07:00"
+                android:textSize="@dimen/unite_pro_item_greay_textSize"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textColor="@color/orange"
+                android:layout_alignParentBottom="true"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="@dimen/unite_pro_item_height"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/chat_item_left_item_305000_tv_terminal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="西安北"
+                android:textSize="@dimen/unite_pro_item_black_textSize"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textColor="@color/black"
+                android:layout_alignParentTop="true"/>
+
+            <TextView
+                android:id="@+id/chat_item_left_item_305000_tv_endtime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="12:52"
+                android:textSize="@dimen/unite_pro_item_greay_textSize"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textColor="@color/green"
+                android:layout_alignParentBottom="true"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

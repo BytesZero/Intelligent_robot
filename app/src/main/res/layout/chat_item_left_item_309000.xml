@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/write"
+              android:orientation="vertical">
+    <include layout="@layout/lines"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1.5"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <ImageView
+                android:id="@+id/chat_item_left_item_309000_iv_icon"
+                android:layout_width="@dimen/unite_pro_item_icon_height"
+                android:layout_height="@dimen/unite_pro_item_icon_height"/>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_weight="4"
+            android:layout_height="@dimen/unite_pro_item_height"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/chat_item_left_item_309000_tv_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="New"
+                android:textSize="@dimen/unite_pro_item_black_textSize"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textColor="@color/black"
+                android:layout_alignParentTop="true"/>
+            <TextView
+                android:id="@+id/chat_item_left_item_309000_tv_price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/orange"
+                android:text="￥300"
+                android:layout_alignParentBottom="true"/>
+            <TextView
+                android:id="@+id/chat_item_left_item_309000_tv_satisfaction"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:textSize="@dimen/unite_pro_item_greay_textSize"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textColor="@color/gary"
+                android:layout_centerInParent="true"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

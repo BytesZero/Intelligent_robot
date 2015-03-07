@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+
+              android:background="@color/write"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/chat_item_left200000_tv_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:text="2014-12-12 15:08:00"
+        android:textAppearance="?android:attr/textAppearanceSmall"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="15dp"
+        android:gravity="left|top"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="@dimen/unite_pro_item_icon"
+                android:layout_height="@dimen/unite_pro_item_icon"
+                android:src="@drawable/chat_item_left"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/chat_item_left_msg_bg_normal"
+            android:orientation="vertical"
+            android:padding="10dp">
+            <TextView
+                android:id="@+id/chat_item_left200000_tv_msg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:textColor="@color/black"/>
+            <TextView
+                android:id="@+id/chat_item_left200000_tv_url"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+
+                android:textColor="@color/chat_item_url"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

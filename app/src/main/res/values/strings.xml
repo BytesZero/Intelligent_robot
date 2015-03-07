@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- app -->
+    <string name="app_name">cold</string>
+
+    <!-- login and register activity -->
+    <string name="user_name">用户名</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="repassword">确认密码</string>
+    <!--main activity-->
+    <string name="main_title">智能聊天系统—小C</string>
+    <string name="main_title_left">登录</string>
+    <string name="main_title_right"></string>
+
+    <string name="start">开始</string>
+    <string name="login_tv_tencent">腾讯QQ</string>
+
+</resources>

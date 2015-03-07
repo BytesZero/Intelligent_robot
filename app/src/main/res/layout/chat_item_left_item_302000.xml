@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/write"
+              android:orientation="vertical">
+    <include layout="@layout/lines"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="4"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="5dp">
+            <TextView
+                android:id="@+id/chat_item_left_item_302000_tv_article"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:textSize="@dimen/unite_pro_item_black_textSize"
+                android:textColor="@color/black"/>
+            <TextView
+                android:id="@+id/chat_item_left_item_302000_tv_source"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:textSize="@dimen/unite_pro_item_greay_textSize"
+                android:textColor="@color/gary"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/chat_item_left_item_302000_iv_icon"
+                android:layout_width="@dimen/unite_pro_item_icon_height"
+                android:layout_height="@dimen/unite_pro_item_icon_height"/>
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

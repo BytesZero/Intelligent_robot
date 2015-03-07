@@ -1,0 +1,41 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.0.2"
+
+    defaultConfig {
+        applicationId "com.zhengsonglan.cold"
+        minSdkVersion 8
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:21.0.0'
+    compile files('libs/Baidu-Frontia-Android-2.0.7.jar')
+    compile files('libs/BmobSDK_V3.2.6_1103.jar')
+    compile files('libs/gson-2.3.1.jar')
+    compile files('libs/VoiceRecognition-1.6.1.jar')
+    compile files('libs/galaxy.jar')
+    compile files('libs/Baidu-SpeechRecognitionUI-SDK-Android-1.6.1.jar')
+    compile files('libs/Msc.jar')
+    compile files('libs/Sunflower.jar')
+    compile files('libs/Volley.jar')
+    compile files('libs/fastjson-1.1.34.jar')
+    compile files('libs/open_sdk_r4346_lite.jar')
+    compile files('libs/universal-image-loader-1.9.3.jar')
+}

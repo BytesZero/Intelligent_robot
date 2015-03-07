@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/write"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/chat_item_right_tv_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:text="2014-12-12 15:08:00"
+        android:textAppearance="?android:attr/textAppearanceSmall"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="15dp"
+        android:gravity="top|right"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:id="@+id/chat_item_right_tv_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="76dp"
+            android:background="@drawable/chat_item_right_msg_bg_normal"
+            android:padding="10dp"
+            android:text="New TextNew TextNew TextNew TextNew TextNew TextNew TextNew TextNew Text"
+            android:textColor="@color/black"/>
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="@dimen/unite_pro_item_icon"
+            android:layout_height="@dimen/unite_pro_item_icon"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:src="@drawable/chat_item_right"/>
+
+    </LinearLayout>
+
+</LinearLayout>
