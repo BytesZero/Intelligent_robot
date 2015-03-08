@@ -18,10 +18,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80fee8df-e631-405d-8ee3-73443e491f3a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/cold/activitys/main/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/cold/activitys/main/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/cold/broadcastreceiver/MyReceiver.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/cold/broadcastreceiver/MyReceiver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Intelligent_robot.iws" />
@@ -1065,7 +1061,11 @@
       <created>1425739226033</created>
       <updated>1425739226033</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="注销广播">
+      <created>1425789977727</created>
+      <updated>1425789977727</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1137,7 +1137,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="项目转移" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目转移" />
+    <MESSAGE value="注销广播" />
+    <option name="LAST_COMMIT_MESSAGE" value="注销广播" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
