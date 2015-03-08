@@ -218,6 +218,9 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
         recognizer.cancel();
         recognizer.destroy();
         super.onDestroy();
+        if(myReceiver!=null){
+            this.unregisterReceiver(myReceiver);
+        }
     }
 
     /**

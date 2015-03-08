@@ -4,7 +4,6 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
-import android.widget.Toast;
 
 import com.alibaba.fastjson.JSONObject;
 import com.zhengsonglan.cold.entity.ChatMsgEntity;
@@ -16,7 +15,6 @@ public class MyReceiver extends BroadcastReceiver {
 
     @Override
     public void onReceive(Context context, Intent intent) {
-        // TODO: This method is called when the BroadcastReceiver is receiving
         String action=intent.getAction();
         if ("url".equals(action)) {
             ChatMsgEntity chatMsgEntity= (ChatMsgEntity)intent.getExtras().get("chatMsgEntity");
