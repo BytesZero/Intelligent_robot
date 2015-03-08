@@ -23,5 +23,9 @@
 ![查询公交](https://github.com/yy1300326388/Intelligent_robot/blob/master/imgage/gongjiao1.png)
 ![查询公交](https://github.com/yy1300326388/Intelligent_robot/blob/master/imgage/gongjiao2.png)
 
+######7.软件下载
+![软件下载](https://github.com/yy1300326388/Intelligent_robot/blob/master/imgage/xiazai1.png)
+![软件下载](https://github.com/yy1300326388/Intelligent_robot/blob/master/imgage/xiazai2.png)
+
 ######8.语音智能识别输入
 ![语音智能识别输入](https://github.com/yy1300326388/Intelligent_robot/blob/master/imgage/yuyinshuru.png)
