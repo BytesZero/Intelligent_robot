@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--app -->
-    <string name="app_name">cold</string>
+    <string name="app_name">啾啾</string>
     <!--activity-->
     <string name="user_name">用户名</string>
     <string name="password">密码</string>

@@ -2,7 +2,7 @@
 <resources>
 
     <!-- app -->
-    <string name="app_name">cold</string>
+    <string name="app_name">啾啾</string>
 
     <!-- login and register activity -->
     <string name="user_name">用户名</string>
@@ -11,7 +11,7 @@
     <string name="register">注册</string>
     <string name="repassword">确认密码</string>
     <!--main activity-->
-    <string name="main_title">智能聊天系统—小C</string>
+    <string name="main_title">智能聊天系统—啾啾</string>
     <string name="main_title_left">登录</string>
     <string name="main_title_right"></string>
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.zhengsonglan.cold" >
+    package="com.zhengsonglan.jiujiu" >
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
@@ -30,6 +30,7 @@
         <activity
             android:name=".activitys.main.MainActivity"
             android:label="@string/app_name"
+            android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustResize|stateHidden" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
