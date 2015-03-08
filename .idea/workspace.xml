@@ -22,46 +22,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.zhengsonglan.jiujiu" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80fee8df-e631-405d-8ee3-73443e491f3a" name="Default" comment="注销广播">
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\Baidu_Frontia_Android_2_0_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\Baidu_SpeechRecognitionUI_SDK_Android_1_6_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\BmobSDK_V3_2_6_1103.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\Msc.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\Sunflower.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\VoiceRecognition_1_6_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\Volley.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\appcompat_v7_21_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\fastjson_1_1_34.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\galaxy.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\gson_2_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\open_sdk_r4346_lite.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\support_annotations_21_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\support_v4_21_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="H:\android\Pro\Intelligent_robot\.idea\libraries\universal_image_loader_1_9_3.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-v21/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-v21/strings.xml" />
+    <list default="true" id="80fee8df-e631-405d-8ee3-73443e491f3a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/adapter/ChatAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/adapter/ChatAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/activitys/main/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/activitys/main/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\androidTest\java\com\zhengsonglan\cold\ApplicationTest.java" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/zhengsonglan/jiujiu/ApplicationTest.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\AppConfig.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/AppConfig.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\BaseActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/BaseActivity.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\action\TuLingAction.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/action/TuLingAction.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\activitys\AAAActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/activitys/AAAActivity.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\activitys\BaseActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/activitys/BaseActivity.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\activitys\main\MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/activitys/main/MainActivity.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\adapter\ChatAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/adapter/ChatAdapter.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\adapter\utils\ViewHolderUtil.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/adapter/utils/ViewHolderUtil.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\app\AppConfig.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/app/AppConfig.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\broadcastreceiver\MyReceiver.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/broadcastreceiver/MyReceiver.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\entity\ChatMsgEntity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/entity/ChatMsgEntity.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\exception\CustomException.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/exception/CustomException.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\untils\ConstantValues.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/untils/ConstantValues.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\untils\MD5Until.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/utils/MD5Until.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\untils\StringUntil.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/utils/StringUntil.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\utils\JsonParser.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/utils/JsonParser.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\utils\MD5Until.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/untils/MD5Until.java" />
-      <change type="MOVED" beforePath="H:\android\Pro\Intelligent_robot\app\src\main\java\com\zhengsonglan\cold\utils\StringUntil.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/untils/StringUntil.java" />
     </list>
     <ignored path="Intelligent_robot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,9 +61,16 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/activitys/main/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.379311" vertical-offset="255" max-vertical-offset="5904">
-              <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="3778" max-vertical-offset="6984">
+              <caret line="167" column="44" selection-start-line="167" selection-start-column="44" selection-end-line="167" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3548#4042#0" expanded="true" />
+                <element signature="e#4035#4036#0" expanded="true" />
+                <element signature="e#4954#5136#0" expanded="true" />
+                <element signature="e#5121#5122#0" expanded="true" />
+                <element signature="e#5369#5370#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,13 +91,34 @@
       <file leaf-file-name="ChatAdapter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/adapter/ChatAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2905526" vertical-offset="1949" max-vertical-offset="8952">
-              <caret line="122" column="42" selection-start-line="122" selection-start-column="42" selection-end-line="122" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.72299653" vertical-offset="6617" max-vertical-offset="10680">
+              <caret line="293" column="75" selection-start-line="293" selection-start-column="75" selection-end-line="293" selection-end-column="75" />
               <folding>
-                <element signature="e#2752#3083#0" expanded="true" />
-                <element signature="e#3064#3065#0" expanded="true" />
-                <element signature="e#14837#14838#0" expanded="true" />
-                <element signature="e#14912#14913#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1441#1442#0" expanded="true" />
+                <element signature="e#1494#1495#0" expanded="true" />
+                <element signature="e#1551#1552#0" expanded="true" />
+                <element signature="e#1592#1593#0" expanded="true" />
+                <element signature="e#1649#1650#0" expanded="true" />
+                <element signature="e#1680#1681#0" expanded="true" />
+                <element signature="e#2787#3118#0" expanded="true" />
+                <element signature="e#3099#3100#0" expanded="true" />
+                <element signature="e#4703#5080#0" expanded="true" />
+                <element signature="e#5057#5058#0" expanded="true" />
+                <element signature="e#6557#6934#0" expanded="true" />
+                <element signature="e#6911#6912#0" expanded="true" />
+                <element signature="e#8409#8786#0" expanded="true" />
+                <element signature="e#8763#8764#0" expanded="true" />
+                <element signature="e#10262#10639#0" expanded="true" />
+                <element signature="e#10616#10617#0" expanded="true" />
+                <element signature="e#12330#12947#0" expanded="true" />
+                <element signature="e#12924#12925#0" expanded="true" />
+                <element signature="e#14700#15077#0" expanded="true" />
+                <element signature="e#15054#15055#0" expanded="true" />
+                <element signature="e#15788#15789#0" expanded="true" />
+                <element signature="e#15863#15864#0" expanded="true" />
+                <element signature="e#18681#18702#0" expanded="true" />
+                <element signature="e#18948#18964#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -873,6 +865,7 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/activitys/main/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/adapter/ChatAdapter.java" />
       </list>
     </option>
@@ -1109,7 +1102,11 @@
       <created>1425789985345</created>
       <updated>1425789985345</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1.修复新闻长度的问题&#10;2.修复了酒店详情为空的情况">
+      <created>1425794339423</created>
+      <updated>1425794339423</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1134,7 +1131,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.48933902" order="6" side_tool="false" content_ui="tabs" />
@@ -1142,17 +1139,18 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.510661" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.510661" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.48933902" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.48933902" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.48933902" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.510661" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1160,11 +1158,40 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.510661" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39933258" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.48933902" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.48933902" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32925472" sideWeight="0.48933902" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.510661" order="15" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1183,11 +1210,20 @@
     </option>
     <MESSAGE value="项目转移" />
     <MESSAGE value="注销广播" />
-    <option name="LAST_COMMIT_MESSAGE" value="注销广播" />
+    <MESSAGE value="1.修复新闻长度的问题&#10;2.修复了酒店详情为空的情况" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.修复新闻长度的问题&#10;2.修复了酒店详情为空的情况" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/adapter/ChatAdapter.java</url>
+          <line>165</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -1272,7 +1308,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10152">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15985#0" expanded="true" />
+            <element signature="e#0#15985#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1319,14 +1355,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/activitys/main/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.379311" vertical-offset="255" max-vertical-offset="5904">
-          <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -1346,15 +1374,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/activitys/main/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3778" max-vertical-offset="6984">
+          <caret line="167" column="44" selection-start-line="167" selection-start-column="44" selection-end-line="167" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3548#4042#0" expanded="true" />
+            <element signature="e#4035#4036#0" expanded="true" />
+            <element signature="e#4954#5136#0" expanded="true" />
+            <element signature="e#5121#5122#0" expanded="true" />
+            <element signature="e#5369#5370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/zhengsonglan/jiujiu/adapter/ChatAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2905526" vertical-offset="1949" max-vertical-offset="8952">
-          <caret line="122" column="42" selection-start-line="122" selection-start-column="42" selection-end-line="122" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.72299653" vertical-offset="6617" max-vertical-offset="10680">
+          <caret line="293" column="75" selection-start-line="293" selection-start-column="75" selection-end-line="293" selection-end-column="75" />
           <folding>
-            <element signature="e#2752#3083#0" expanded="true" />
-            <element signature="e#3064#3065#0" expanded="true" />
-            <element signature="e#14837#14838#0" expanded="true" />
-            <element signature="e#14912#14913#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1441#1442#0" expanded="true" />
+            <element signature="e#1494#1495#0" expanded="true" />
+            <element signature="e#1551#1552#0" expanded="true" />
+            <element signature="e#1592#1593#0" expanded="true" />
+            <element signature="e#1649#1650#0" expanded="true" />
+            <element signature="e#1680#1681#0" expanded="true" />
+            <element signature="e#2787#3118#0" expanded="true" />
+            <element signature="e#3099#3100#0" expanded="true" />
+            <element signature="e#4703#5080#0" expanded="true" />
+            <element signature="e#5057#5058#0" expanded="true" />
+            <element signature="e#6557#6934#0" expanded="true" />
+            <element signature="e#6911#6912#0" expanded="true" />
+            <element signature="e#8409#8786#0" expanded="true" />
+            <element signature="e#8763#8764#0" expanded="true" />
+            <element signature="e#10262#10639#0" expanded="true" />
+            <element signature="e#10616#10617#0" expanded="true" />
+            <element signature="e#12330#12947#0" expanded="true" />
+            <element signature="e#12924#12925#0" expanded="true" />
+            <element signature="e#14700#15077#0" expanded="true" />
+            <element signature="e#15054#15055#0" expanded="true" />
+            <element signature="e#15788#15789#0" expanded="true" />
+            <element signature="e#15863#15864#0" expanded="true" />
+            <element signature="e#18681#18702#0" expanded="true" />
+            <element signature="e#18948#18964#0" expanded="true" />
           </folding>
         </state>
       </provider>

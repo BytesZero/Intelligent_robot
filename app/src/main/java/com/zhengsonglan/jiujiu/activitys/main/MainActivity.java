@@ -55,7 +55,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
     //initdata
     List<ChatMsgEntity> data;
     ChatAdapter chatAdapter;
-    String you_name="小c";
+    String you_name="啾啾";
     String me_name="me";
     MyReceiver myReceiver=new MyReceiver();
 
@@ -96,7 +96,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
         dialog=new RecognizerDialog(this,initListener);
         //初始化聊天数据
         data=new ArrayList<ChatMsgEntity>();
-        ChatMsgEntity chatMsgEntity=new ChatMsgEntity(you_name,"{\"code\":100000,\"text\":\"你好，小C为你服务\"}", ChatMsgEntity.Type.you,new Date());
+        ChatMsgEntity chatMsgEntity=new ChatMsgEntity(you_name,"{\"code\":100000,\"text\":\"你好，啾啾为你服务\"}", ChatMsgEntity.Type.you,new Date());
         data.add(chatMsgEntity);
         chatAdapter=new ChatAdapter(this,data);
         lv_chat.setAdapter(chatAdapter);
@@ -168,11 +168,11 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
             },new Response.ErrorListener() {
                 @Override
                 public void onErrorResponse(VolleyError volleyError) {
-                    replyMsgHandler("{\"code\":100000,\"text\":\"您的问题太深奥了，小c难以回答1\"}");
+                    replyMsgHandler("{\"code\":100000,\"text\":\"您的问题太深奥了，啾啾难以回答1\"}");
                 }
             }));
         } catch (UnsupportedEncodingException e) {
-            replyMsgHandler("{\"code\":100000,\"text\":\"您的问题太深奥了，小c难以回答2\"}");
+            replyMsgHandler("{\"code\":100000,\"text\":\"您的问题太深奥了，啾啾难以回答2\"}");
         }
 
     }
