@@ -29,7 +29,7 @@
 ######9.语音智能识别输入
 ![语音智能识别输入](https://github.com/yy1300326388/Intelligent_robot/blob/master/imgage/yuyinshuru.png)
 
-######9.陪你聊天
+######10.陪你聊天
 ![陪你聊天](https://github.com/yy1300326388/Intelligent_robot/blob/master/imgage/liaotian.png)
 
 #Download
