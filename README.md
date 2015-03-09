@@ -36,7 +36,7 @@
 ![陪你聊天](https://github.com/yy1300326388/Intelligent_robot/blob/master/imgage/liaotian.png)
 
 #Download
-[app.apk](https://github.com/yy1300326388/Intelligent_robot/tree/master/download/app.apk "app.apk")
+[app.apk](http://a.app.qq.com/o/simple.jsp?pkgname=com.zhengsonglan.jiujiu "app.apk")
 
 #Thanks for
 1.图灵智能机器人平台：[http://www.tuling123.com/](http://www.tuling123.com/ "图灵")
